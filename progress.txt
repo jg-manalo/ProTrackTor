@@ -1,0 +1,80 @@
+Name: Do lab act 3 feclec
+Date: 2023-12-11
+Time Taken: 01:15:00
+Done: True
+
+Name: write fec lab 4
+Date: 2023-12-11
+Time Taken: 01:00:00
+Done: True
+
+Name: finalize fec lec l4
+Date: 2023-12-11
+Time Taken: 00:45:00
+Done: True
+
+Name: magwalis
+Date: 2023-12-11
+Time Taken: 00:10:00
+Done: True
+
+Name: magsaing
+Date: 2023-12-11
+Time Taken: 00:10:00
+Done: True
+
+Name: write fec lec lab 5
+Date: 2023-12-11
+Time Taken: 01:00:00
+Done: True
+
+Name: solve lab 6
+Date: 2023-12-12
+Time Taken: 01:05:00
+Done: True
+
+Name: finalize feclec lab5
+Date: 2023-12-12
+Time Taken: 00:45:00
+Done: True
+
+Name: finalize feclec lab6
+Date: 2023-12-12
+Time Taken: 00:56:00
+Done: True
+
+Name: finalize feclec lab 7
+Date: 2023-12-12
+Time Taken: 01:08:00
+Done: True
+
+Name: finalize feclec lab 8
+Date: 2023-12-12
+Time Taken: 00:45:00
+Done: True
+
+Name: organize them all
+Date: 2023-12-12
+Time Taken: 00:40:00
+Done: True
+
+Name: test
+Date: 2023-12-13
+Time Taken: 00:00:15
+Done: True
+
+Name: read dsa lessons
+Date: 2024-02-04
+Time Taken: 00:45:00
+Done: True
+
+Name: study ethics
+Date: 2024-02-14
+Time Taken: 02:40:00
+Done: True
+
+Name: study numerical methods
+Date: 2024-02-16
+Time Taken: 01:00:00
+Done: True
+
